@@ -1,0 +1,127 @@
+@media screen and (max-width: 500px) {
+.page1{
+    padding: 44px 18px 0 18px;
+    background-image: url(img/bcg5.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+.page1_main_txt{
+    color: #fff;
+    font-size: 37px;
+    font-family: 'Chakra Petch';
+    margin-top: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+.logo{
+    width: 170px;
+    height: 62px;
+}
+.page1_main_txt2{
+    margin-top: 47px;
+}
+.page1_form{
+    position: absolute;
+    top: 80%
+}
+.page1_main_txt3{
+    position: absolute;
+    top: 107%
+}
+.page2_main_txt{
+    font-size: 30px;
+    margin-top: 60px;
+}
+.row_cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+}
+.page2{
+    height: 1100px;
+}
+.page3_left{
+    display: none
+}
+.page3_right{
+    width: 100%;
+    padding: 60px 34px;
+    background-image: url(img/bcg2.jpg);
+}
+.page3_main_txt{
+    font-size: 30px;
+}
+.page3_btn{
+    width: 100%;
+}
+.page4_main_txt{
+    font-size: 35px;
+    text-align: center;
+}
+.page4{
+    height: 2100px;
+    padding: 120px 0;
+}
+.page4_top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+.top_left{
+    padding: 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.page4_bottom{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0;
+    height: 900px;
+}
+.top_p1{
+    text-align: center;
+}
+.top_p2{
+    text-align: center;
+    margin-top: 10px;
+}
+.bottom_left{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+}
+.ph2{
+    width: 70%;
+    height: 400px;
+}
+.ph1{
+    width: 65%;
+}
+.bottom_btn{
+    width: 339px;
+    height: 92px;
+    border-radius: 80px
+}
+.footer{
+    height: 100px;
+    flex-direction: column;
+    padding: 0;
+    justify-content: center;
+}
+.footer_p{
+    margin-bottom: 10px;
+}
+};
